@@ -1,0 +1,6 @@
+component ---- function component class 
+how to pass props to class component
+how to pass props to a function based component
+click , onChange
+state and re - render state with hooks and functional based component
+ 
